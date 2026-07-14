@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Language Tutor"
+  short_description: "Run structured ChatGPT Voice language lessons"
+  default_prompt: "Use $gpt-language-tutor to prepare and launch my next Mandarin Voice lesson, then track the result."
