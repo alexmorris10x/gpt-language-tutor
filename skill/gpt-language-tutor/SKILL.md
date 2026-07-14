@@ -21,11 +21,12 @@ Act as the durable lesson manager around ChatGPT Voice. Codex owns the curriculu
 Keep learner data outside the installed skill and outside the public repository.
 
 1. Use the study folder the learner names.
-2. Otherwise, search the current workspace and likely knowledge folders for all five canonical study files.
-3. If no study exists, ask where to create it. Suggest a durable personal documents or knowledge-library folder.
-4. Initialize it with `scripts/init_study.py --path <folder>` after the learner approves the location.
+2. Otherwise, search the current workspace and likely knowledge folders for the canonical files or clear semantic equivalents.
+3. When an existing study uses different filenames, map files by their headings and contents. Preserve those filenames and record the mapping for the current task; do not duplicate or rename working study files merely to match the template.
+4. If no study exists, ask where to create it. Suggest a durable personal documents or knowledge-library folder.
+5. Initialize it with `scripts/init_study.py --path <folder>` after the learner approves the location.
 
-Canonical files:
+Canonical files for a new study:
 
 - `Learner Profile.md`
 - `Curriculum State.md`

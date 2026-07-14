@@ -10,7 +10,7 @@ The learner controls the live Voice session and decides when Codex may create or
 
 ## First setup
 
-1. Create the five canonical study files outside the skill repository.
+1. Create the five canonical study files outside the skill repository, or adopt semantically equivalent files already used by an existing study without renaming them.
 2. Personalize the learner profile.
 3. Put the stable Project instructions into one dedicated ChatGPT Project.
 4. Use one continuing chat when continuity is useful, or one chat per lesson when the learner prefers cleaner transcripts.
