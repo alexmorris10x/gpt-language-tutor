@@ -69,6 +69,8 @@ python3 -m unittest discover -s tests -v
 
 See `CONTRIBUTING.md` before changing tutor behavior or adding lessons.
 
+Use [GitHub Issues](https://github.com/alexmorris10x/gpt-language-tutor/issues) for reproducible repository bugs and focused feature requests. Read [SECURITY.md](SECURITY.md) before reporting a vulnerability and [SUPPORT.md](SUPPORT.md) for the support boundary.
+
 ## License
 
 MIT. See `LICENSE`.
